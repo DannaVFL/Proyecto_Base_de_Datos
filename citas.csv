@@ -1,0 +1,42 @@
+id_cita,fecha,dni_paciente,nombre_paciente,cod_medico,nombre_medico,especialidad,estado,duracion_min,costo
+1,2026-08-21,72345678,Luis Castillo Mora,M003,Jorge Medina Rojas,Cardiología,Atendida,35,150
+2,2026-08-19,71234567,María López Rivas,M005,Pedro Salazar Díaz,Traumatología,Atendida,40,140
+3,2026-08-14,71234567,María López Rivas,M001,Carlos Ramírez Soto,Medicina General,Atendida,20,80
+4,2026-08-02,78901234,Andrea Rojas Silva,M001,Carlos Ramírez Soto,Medicina General,Cancelada,15,80
+5,2026-09-19,70234567,  ELENA CAMPOS VERA  ,M002,Lucía Fernández Paredes,Pediatría,Atendida,40,100
+6,2026-07-18,73456789,Rosa Huamán Quispe,M001,Carlos Ramírez Soto,Medicina General,Atendida,25,80
+7,2026-09-04,72345678,Luis Castillo Mora,M004,Ana Torres Vega,Ginecología,Cancelada,40,130
+8,2026-07-04,70234567,Elena Campos Vera,M005,Pedro Salazar Díaz,Traumatología,Cancelada,40,140
+9,2026-09-23,71234567,María López Rivas,M003,Jorge Medina Rojas,Cardiología,Atendida,35,150
+10,2026-08-22,73456789,Rosa Huamán Quispe,M005,Pedro Salazar Díaz,Traumatología,atendida ,50,140
+11,2026-09-15,77890123,Sofía Mendoza Peña,M003,Jorge Medina Rojas,Cardiología,Atendida,45,150
+12,2026-09-25,72345678,Luis Castillo Mora,M002,Lucía Fernández Paredes,Pediatría,Atendida,25,100
+13,2026-09-16,74567890,Diego Vargas León,M005,Pedro Salazar Díaz,Traumatología,Atendida,50,140
+14,2026-07-04,79012345,Pablo Guerrero Luna,M003,Jorge Medina Rojas,Cardiología,Cancelada,50,150
+15,2026-07-16,,Carmen Flores Ruiz,M002,Lucía Fernández Paredes,Pediatría,Programada,25,100
+16,2026-09-26,78901234,Andrea Rojas Silva,M001,Carlos Ramírez Soto,Medicina General,Atendida,25,80
+17,2026-08-19,79012345,Pablo Guerrero Luna,M003,Jorge Medina Rojas,Cardiología,Programada,35,150
+18,2026-08-23,74567890,Diego Vargas León,M001,Carlos Ramírez Soto,Medicina General,Atendida,15,80
+19,2026-09-22,70234567,Elena Campos Vera,M003,Jorge Medina Rojas,Cardiología,Programada,45,150
+20,2026-08-01,70234567,Elena Campos Vera,M004,Ana Torres Vega,Ginecología,Programada,40,130
+21,2026-07-16,79012345,Pablo Guerrero Luna,M002,Lucía Fernández Paredes,Pediatría,Atendida,30,100
+22,2026-09-08,72345678,Luis Castillo Mora,M003,Jorge Medina Rojas,cardiología,Programada,50,150
+23,2026-07-15,71234567,María López Rivas,M004,Ana Torres Vega,Ginecología,Programada,40,130
+24,2026-09-09,76789012,Miguel Ortiz Cano,M002,Lucía Fernández Paredes,Pediatría,Programada,35,100
+25,2026-07-03,73456789,Rosa Huamán Quispe,M004,Ana Torres Vega,Ginecología,Atendida,35,130
+26,2026-07-01,70234567,Elena Campos Vera,M002,Lucía Fernández Paredes,Pediatría,Programada,30,100
+27,2026-07-05,74567890,Diego Vargas León,M003,Jorge Medina Rojas,Cardiología,Programada,45,150
+28,2026-08-05,79012345,Pablo Guerrero Luna,M005,Pedro Salazar Díaz,Traumatología,Cancelada,35,140
+29,2026-09-13,70234567,Elena Campos Vera,M004,Ana Torres Vega,Ginecología,Programada,45,130
+30,2026-08-21,71234567,María López Rivas,M004,Ana Torres Vega,Ginecología,Programada,30,130
+31,2026-07-15,71234567,María López Rivas,M002,Lucía Fernández Paredes,Pediatría,Atendida,25,100
+32,2026-07-04,79012345,Pablo Guerrero Luna,M003,Jorge Medina Rojas,Cardiología,Atendida,40,150
+33,2026-08-20,71234567,María López Rivas,M005,Pedro Salazar Díaz,Traumatología,Atendida,35,140
+34,2026-08-05,79012345,Pablo Guerrero Luna,M002,Lucía Fernández Paredes,Pediatría,Atendida,35,100
+35,2026-08-04,75678901,Carmen Flores Ruiz,M005,Pedro Salazar Díaz,Traumatología,Atendida,50,140
+36,2026-08-10,77890123,Sofía Mendoza Peña,M004,Ana Torres Vega,Ginecología,Atendida,35,130
+37,2026-08-24,71345678,Raúl Navarro Cruz,M001,Carlos Ramírez Soto,Medicina General,Atendida,30,80
+38,2026-07-07,78901234,Andrea Rojas Silva,M002,Lucía Fernández Paredes,Pediatría,Cancelada,35,100
+39,2026-09-01,71345678,Raúl Navarro Cruz,M002,Lucía Fernández Paredes,Pediatría,Cancelada,35,100
+40,2026-08-17,71345678,Raúl Navarro Cruz,M001,Carlos Ramírez Soto,Medicina General,Atendida,20,80
+7,2026-09-04,72345678,Luis Castillo Mora,M004,Ana Torres Vega,Ginecología,Cancelada,40,130
