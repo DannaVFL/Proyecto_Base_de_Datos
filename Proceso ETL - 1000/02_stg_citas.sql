@@ -21,10 +21,11 @@ CREATE TABLE dbo.stg_citas (
 GO
 
 BULK INSERT dbo.stg_citas
-FROM 'C:\ETL\citas.csv'
+FROM 'C:\ETL\citas_1000.csv'
 WITH (
-    FIRSTROW = 2, 
-    FIELDTERMINATOR = ',', 
-    ROWTERMINATOR = '\n',
-    CODEPAGE = '65001' 
+    FORMAT = 'CSV',          
+    FIRSTROW = 2,
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '0x0a',   
+    CODEPAGE = '65001'
 );
